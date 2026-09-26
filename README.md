@@ -39,7 +39,7 @@ The PCB itself is designed and shaped like a **stick of dynamite** — a small j
 ## 📷 Photos
 
 **Real circuit:**
-*(add a photo of the assembled circuit here)*
+![CircuitLayout](circuit_layout.png)
 
 **PCB (KiCad layout):**
 ![PCB Layout](pcb_layout.png)
