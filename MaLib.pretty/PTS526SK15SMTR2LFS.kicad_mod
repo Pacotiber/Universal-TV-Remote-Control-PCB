@@ -1,0 +1,399 @@
+(footprint "PTS526SK15SMTR2LFS"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "PTS526 SK15 SMTR2 LFS-1")
+	(tags "Switch")
+	(property "Reference" "REF**"
+		(at -0.25 0 180)
+		(layer "F.SilkS")
+		(uuid "299b42ba-d19b-47fd-b0b9-ab382a732957")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "PTS526_SK15_SMTR2_LFS"
+		(at -0.25 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "054838d3-b143-454e-927a-08b077349041")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2ed9c6a-545a-4127-8bd2-358d6f4ec00c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Tact 5.2 x 5.2, 1.5 mm H, 260gf, G leads, No ground pin, metal actuator"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c6fdcb0-c58c-487a-970b-e7c37e4f1441")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.65"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89f4c264-988b-4c3f-8fc3-06c4e787c372")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "C & K COMPONENTS"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f567043-0f15-4592-9779-727905352677")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "PTS526 SK15 SMTR2 LFS"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "868346f4-70d6-43f5-92a4-9f96c759407f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "611-PTS526SK15SMR2L"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f95decf9-b792-4aa4-86e2-3b9e686f59a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS526-SK15-SMTR2-LFS?qs=UXgszm6BlbF5Ezp94JAQtw%3D%3D"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03adff15-3120-4d4b-8fe3-4b0e58e3a02f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "PTS526 SK15 SMTR2 LFS"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7148d182-343e-415a-9267-4d10c9cdd594")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/pts526-sk15-smtr2-lfs/ck?region=nac"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0cceee26-34af-44ff-bde9-0369edfddb7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/Keyboard Matrix/")
+	(sheetfile "keyboard_matrix.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4 -1.9)
+		(end -4 -1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d37b6caf-00c2-481c-b483-775774ccfa04")
+	)
+	(fp_line
+		(start -3.8 -1.9)
+		(end -3.8 -1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7580a07e-0c7f-4581-87cb-aa292250c362")
+	)
+	(fp_line
+		(start -2.6 -2.6)
+		(end -2.6 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7375b9d0-531d-453d-a435-a5f441b62d63")
+	)
+	(fp_line
+		(start -2.6 -1.3)
+		(end -2.6 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5c636f3f-cd6a-49d0-9949-dffad46689bf")
+	)
+	(fp_line
+		(start -2.6 2.6)
+		(end -2.6 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "440ce9ed-356b-432d-a5af-a2d5e05e3308")
+	)
+	(fp_line
+		(start 2.6 -2.6)
+		(end -2.6 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad2b41d6-1927-4f1d-95ed-76a7b5d7d9ce")
+	)
+	(fp_line
+		(start 2.6 -2.4)
+		(end 2.6 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "460e6f5e-16d7-4ec2-ada2-931916fc27d1")
+	)
+	(fp_line
+		(start 2.6 -1.3)
+		(end 2.6 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1cf4cea8-da86-4386-aa29-3c57d79381e5")
+	)
+	(fp_line
+		(start 2.6 2.4)
+		(end 2.6 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bcdb2851-2955-493e-ae2a-a40264f5778c")
+	)
+	(fp_line
+		(start 2.6 2.6)
+		(end -2.6 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc0805a2-2bd6-4f61-9426-d6fb24818827")
+	)
+	(fp_arc
+		(start -4 -1.9)
+		(mid -3.9 -2)
+		(end -3.8 -1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "88406a8b-2077-44e3-9166-88cda2d372ac")
+	)
+	(fp_arc
+		(start -3.8 -1.9)
+		(mid -3.9 -1.8)
+		(end -4 -1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d76d20b4-6bca-4ff5-949c-692b515ca375")
+	)
+	(fp_line
+		(start -4.5 -3.5)
+		(end -4.5 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4e059fee-9893-4693-833e-2ce917faf7df")
+	)
+	(fp_line
+		(start -4.5 3.5)
+		(end 4 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ad4b8e9f-fe31-4404-a362-61d0b3d2ecba")
+	)
+	(fp_line
+		(start 4 -3.5)
+		(end -4.5 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "94eb9c9a-d32b-4c52-8c01-24d46e070e72")
+	)
+	(fp_line
+		(start 4 3.5)
+		(end 4 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "beef3d05-1743-4642-816a-ac8e73deeeab")
+	)
+	(fp_line
+		(start -2.6 -2.6)
+		(end -2.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2897a296-2c87-4b55-83fd-8005fb8fa950")
+	)
+	(fp_line
+		(start -2.6 2.6)
+		(end 2.6 2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e126330-a099-4e23-8fb9-688828c4a0b2")
+	)
+	(fp_line
+		(start 2.6 -2.6)
+		(end -2.6 -2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9693842-b191-4fb6-8d01-26ba4a0b0732")
+	)
+	(fp_line
+		(start 2.6 2.6)
+		(end 2.6 -2.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c17d9118-30a8-4752-b510-1c6ddfae8f73")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.25 0 180)
+		(layer "F.Fab")
+		(uuid "7f215c8e-2fee-4dff-9989-bf4d170c5698")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.25 -1.85 270)
+		(size 0.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a82fca11-4182-4372-8f59-1f8ee2d78447")
+	)
+	(pad "1" smd rect
+		(at 3.25 -1.85 270)
+		(size 0.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "88754174-c214-4427-8547-4fa196d592e0")
+	)
+	(pad "2" smd rect
+		(at -3.25 1.85 270)
+		(size 0.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "37029e71-6ad5-40ba-a230-042ec19d4be3")
+	)
+	(pad "2" smd rect
+		(at 3.25 1.85 270)
+		(size 0.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2f5e7737-279e-4770-9717-7b84b32c70cb")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/packages3D/PTS526_SM15_SMTR2_LFS.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
