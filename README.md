@@ -4,8 +4,6 @@ A universal infrared remote control built around a **XIAO ESP32**, designed to a
 
 ## 📋 Overview
 
-This student project combines a microcontroller, an IR emitter, a display, and a light sensor into a small, single-purpose remote:
-
 - ⏱️ A **30-minute timer** counts down and shows the remaining time on an OLED screen.
 - 📡 When the timer hits zero, the XIAO ESP32 automatically sends an **IR POWER command** to switch off the TV.
 - 🔴 A second push button lets you **turn off the TV instantly**, without waiting for the timer.
